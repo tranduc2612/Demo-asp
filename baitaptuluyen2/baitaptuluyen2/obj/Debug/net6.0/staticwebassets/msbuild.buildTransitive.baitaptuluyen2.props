@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\baitaptuluyen2.props" />
+</Project>

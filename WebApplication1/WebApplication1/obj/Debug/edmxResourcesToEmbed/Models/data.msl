@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLXemPhimModelStoreContainer" CdmEntityContainer="QLXemPhimEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QLXemPhimModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tChiTietHoaDons">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tChiTietHoaDon">
+        <MappingFragment StoreEntitySet="tChiTietHoaDon">
+          <ScalarProperty Name="SoHD" ColumnName="SoHD" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="MaDichVu" ColumnName="MaDichVu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tDichVus">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tDichVu">
+        <MappingFragment StoreEntitySet="tDichVu">
+          <ScalarProperty Name="MaDichVu" ColumnName="MaDichVu" />
+          <ScalarProperty Name="TenDichVu" ColumnName="TenDichVu" />
+          <ScalarProperty Name="GiaTien" ColumnName="GiaTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tHangSXes">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tHangSX">
+        <MappingFragment StoreEntitySet="tHangSX">
+          <ScalarProperty Name="MaHangSX" ColumnName="MaHangSX" />
+          <ScalarProperty Name="TenHangSX" ColumnName="TenHangSX" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tHoaDons">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tHoaDon">
+        <MappingFragment StoreEntitySet="tHoaDon">
+          <ScalarProperty Name="SoHD" ColumnName="SoHD" />
+          <ScalarProperty Name="NgayLap" ColumnName="NgayLap" />
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TongTienHoaDon" ColumnName="TongTienHoaDon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tKhachHangs">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tKhachHang">
+        <MappingFragment StoreEntitySet="tKhachHang">
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tLichChieux">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tLichChieu">
+        <MappingFragment StoreEntitySet="tLichChieu">
+          <ScalarProperty Name="MaPhongChieu" ColumnName="MaPhongChieu" />
+          <ScalarProperty Name="MaPhim" ColumnName="MaPhim" />
+          <ScalarProperty Name="NgayChieu" ColumnName="NgayChieu" />
+          <ScalarProperty Name="SLDaBan" ColumnName="SLDaBan" />
+          <ScalarProperty Name="KhuyenMai" ColumnName="KhuyenMai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tNhanViens">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tNhanVien">
+        <MappingFragment StoreEntitySet="tNhanVien">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+          <ScalarProperty Name="SoDT" ColumnName="SoDT" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+          <ScalarProperty Name="SLVe" ColumnName="SLVe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tNuocSXes">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tNuocSX">
+        <MappingFragment StoreEntitySet="tNuocSX">
+          <ScalarProperty Name="MaNuocSX" ColumnName="MaNuocSX" />
+          <ScalarProperty Name="TenNuocSX" ColumnName="TenNuocSX" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPhims">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tPhim">
+        <MappingFragment StoreEntitySet="tPhim">
+          <ScalarProperty Name="MaPhim" ColumnName="MaPhim" />
+          <ScalarProperty Name="TenPhim" ColumnName="TenPhim" />
+          <ScalarProperty Name="NoiDungPhim" ColumnName="NoiDungPhim" />
+          <ScalarProperty Name="GiaPhim" ColumnName="GiaPhim" />
+          <ScalarProperty Name="ThoiLuongPhim" ColumnName="ThoiLuongPhim" />
+          <ScalarProperty Name="DaoDien" ColumnName="DaoDien" />
+          <ScalarProperty Name="NgayKhoiChieu" ColumnName="NgayKhoiChieu" />
+          <ScalarProperty Name="NgayKetThuc" ColumnName="NgayKetThuc" />
+          <ScalarProperty Name="TongThu" ColumnName="TongThu" />
+          <ScalarProperty Name="MaHangSX" ColumnName="MaHangSX" />
+          <ScalarProperty Name="MaNuocSX" ColumnName="MaNuocSX" />
+          <ScalarProperty Name="MaTheLoai" ColumnName="MaTheLoai" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPhongChieux">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tPhongChieu">
+        <MappingFragment StoreEntitySet="tPhongChieu">
+          <ScalarProperty Name="MaPhongChieu" ColumnName="MaPhongChieu" />
+          <ScalarProperty Name="TongSoGhe" ColumnName="TongSoGhe" />
+          <ScalarProperty Name="TenPhong" ColumnName="TenPhong" />
+          <ScalarProperty Name="LoaiPhong" ColumnName="LoaiPhong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tTheLoais">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tTheLoai">
+        <MappingFragment StoreEntitySet="tTheLoai">
+          <ScalarProperty Name="MaTheLoai" ColumnName="MaTheLoai" />
+          <ScalarProperty Name="TenTheLoai" ColumnName="TenTheLoai" />
+          <ScalarProperty Name="soLuongPhim" ColumnName="soLuongPhim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tVes">
+      <EntityTypeMapping TypeName="QLXemPhimModel.tVe">
+        <MappingFragment StoreEntitySet="tVe">
+          <ScalarProperty Name="MaVe" ColumnName="MaVe" />
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="LoaiVe" ColumnName="LoaiVe" />
+          <ScalarProperty Name="NgayDat" ColumnName="NgayDat" />
+          <ScalarProperty Name="NgayChieu" ColumnName="NgayChieu" />
+          <ScalarProperty Name="GiaVe" ColumnName="GiaVe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="view2">
+      <EntityTypeMapping TypeName="QLXemPhimModel.view2">
+        <MappingFragment StoreEntitySet="view2">
+          <ScalarProperty Name="NgayChieu" ColumnName="NgayChieu" />
+          <ScalarProperty Name="MaPhongChieu" ColumnName="MaPhongChieu" />
+          <ScalarProperty Name="TongSoGhe" ColumnName="TongSoGhe" />
+          <ScalarProperty Name="SoGheConTrong" ColumnName="SoGheConTrong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="view7">
+      <EntityTypeMapping TypeName="QLXemPhimModel.view7">
+        <MappingFragment StoreEntitySet="view7">
+          <ScalarProperty Name="MaPhim" ColumnName="MaPhim" />
+          <ScalarProperty Name="TenPhim" ColumnName="TenPhim" />
+          <ScalarProperty Name="NoiDungPhim" ColumnName="NoiDungPhim" />
+          <ScalarProperty Name="GiaPhim" ColumnName="GiaPhim" />
+          <ScalarProperty Name="ThoiLuongPhim" ColumnName="ThoiLuongPhim" />
+          <ScalarProperty Name="DaoDien" ColumnName="DaoDien" />
+          <ScalarProperty Name="NgayKhoiChieu" ColumnName="NgayKhoiChieu" />
+          <ScalarProperty Name="NgayKetThuc" ColumnName="NgayKetThuc" />
+          <ScalarProperty Name="TongThu" ColumnName="TongThu" />
+          <ScalarProperty Name="MaHangSX" ColumnName="MaHangSX" />
+          <ScalarProperty Name="MaNuocSX" ColumnName="MaNuocSX" />
+          <ScalarProperty Name="MaTheLoai" ColumnName="MaTheLoai" />
+          <ScalarProperty Name="SLVe" ColumnName="SLVe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionName="QLXemPhimModel.Store.Cau1F" FunctionImportName="Cau1F">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLXemPhimModel.Cau1F_Result">
+          <ScalarProperty Name="MaNV" ColumnName="MaNV" />
+          <ScalarProperty Name="TenNV" ColumnName="TenNV" />
+          <ScalarProperty Name="SoDT" ColumnName="SoDT" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="Luong" ColumnName="Luong" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="QLXemPhimModel.Store.Cau6F" FunctionImportName="Cau6F">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLXemPhimModel.Cau6F_Result">
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="SoDienThoai" ColumnName="SoDienThoai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="QLXemPhimModel.Store.Cau7F" FunctionImportName="Cau7F">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLXemPhimModel.Cau7F_Result">
+          <ScalarProperty Name="MaPhim" ColumnName="MaPhim" />
+          <ScalarProperty Name="TenPhim" ColumnName="TenPhim" />
+          <ScalarProperty Name="NoiDungPhim" ColumnName="NoiDungPhim" />
+          <ScalarProperty Name="GiaPhim" ColumnName="GiaPhim" />
+          <ScalarProperty Name="ThoiLuongPhim" ColumnName="ThoiLuongPhim" />
+          <ScalarProperty Name="DaoDien" ColumnName="DaoDien" />
+          <ScalarProperty Name="NgayKhoiChieu" ColumnName="NgayKhoiChieu" />
+          <ScalarProperty Name="NgayKetThuc" ColumnName="NgayKetThuc" />
+          <ScalarProperty Name="TongThu" ColumnName="TongThu" />
+          <ScalarProperty Name="MaHangSX" ColumnName="MaHangSX" />
+          <ScalarProperty Name="MaNuocSX" ColumnName="MaNuocSX" />
+          <ScalarProperty Name="MaTheLoai" ColumnName="MaTheLoai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="QLXemPhimModel.Store.SoLuongHoaDon" FunctionImportName="SoLuongHoaDon">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLXemPhimModel.SoLuongHoaDon_Result">
+          <ScalarProperty Name="Ngày" ColumnName="Ngày" />
+          <ScalarProperty Name="Số_lượng_hóa_đơn" ColumnName="Số lượng hóa đơn" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CAU3proc" FunctionName="QLXemPhimModel.Store.CAU3proc" />
+    <FunctionImportMapping FunctionImportName="CAU4proc" FunctionName="QLXemPhimModel.Store.CAU4proc" />
+    <FunctionImportMapping FunctionImportName="CAU5proc" FunctionName="QLXemPhimModel.Store.CAU5proc" />
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="QLXemPhimModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="QLXemPhimModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="QLXemPhimModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="QLXemPhimModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLXemPhimModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="QLXemPhimModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLXemPhimModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="QLXemPhimModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="QLXemPhimModel.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

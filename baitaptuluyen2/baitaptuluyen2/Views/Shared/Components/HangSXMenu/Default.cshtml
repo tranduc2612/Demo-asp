@@ -1,0 +1,9 @@
+﻿@model IEnumerable<THangSx>
+
+<div class="main_mix_menu">
+	<button class="filter" data-filter="all"><a href="/">All</a> <span>/</span></button>
+	@foreach (var item in Model)
+	{
+		<button class="filter" data-filter="all"><a href="/?mahang=@item.MaHangSx">@item.HangSx</a> <span>/</span></button>
+	}
+</div>

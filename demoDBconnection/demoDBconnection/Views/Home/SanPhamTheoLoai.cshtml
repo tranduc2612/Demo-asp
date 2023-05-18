@@ -1,0 +1,36 @@
+﻿ 
+@{
+    ViewData["Title"] = "SanPhamTheoLoai";
+    Layout = "~/Views/Shared/_LayoutOgarni.cshtml";
+}
+
+
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common;
+@model X.PagedList.IPagedList<TDanhMucSp>   
+
+@foreach (var item in Model)
+{
+    @await Html.PartialAsync("_PartialListProduct",item)    
+}
+
+@Html.PagedListPager(Model,page => Url.Action("SanPhamTheoLoai",new{page=page,maloai=ViewBag.maloai}),new PagedListRenderOptions()
+{
+   LiElementClasses = new List<string> {"page-item"},
+   PageClasses = new List<string>{"page-link"}
+})
+@*
+UlElementClasses = new string[] { "pagination pagination-xs pagination-gutter  pagination-warning" },
+                                   LiElementClasses = new string[] { "page-item" },
+                                   LinkToPreviousPageFormat = "Geri",
+                                   LinkToNextPageFormat = "İleri",
+                                   ClassToApplyToLastListItemInPager = "page-previus",
+                                   ClassToApplyToFirstListItemInPager = "page-next",
+
+                                   FunctionToTransformEachPageLink = (li, a) =>
+                                   {
+                                       a.AddCssClass("page-link");
+                                       li.SetInnerText(a.ToString());
+                                       return li;
+
+                                   }*@

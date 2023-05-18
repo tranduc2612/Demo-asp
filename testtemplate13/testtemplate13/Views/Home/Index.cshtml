@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Cauthu>
+
+
+@foreach(var item in Model)
+{
+    <a href="single-product.html">
+        <div class="featured-item">
+            <img src="../images/images/@item.Anh" alt="Item 1">
+            <h4>@item.HoVaTen</h4>
+            <h6>@item.CauLacBoId</h6>
+        </div>
+    </a>
+}
+
+

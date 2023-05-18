@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\baitaptuluyen2.props" />
+</Project>

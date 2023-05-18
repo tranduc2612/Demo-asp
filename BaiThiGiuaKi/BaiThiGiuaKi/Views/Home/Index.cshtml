@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common;
+@model X.PagedList.IPagedList<TDanhMucSp>
+
+@foreach(var item in @Model)
+{
+    <div class="col-md-4">
+        <div class="box_man">
+            <h3 class="mobile_text">@item.TenSp</h3>
+            <div class="mobile_img"><img src="../imagesVali/@item.AnhDaiDien"></div>
+            <div class="cart_main">
+                <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                <h4 class="samsung_text">@item.TenSp</h4>
+                <h6 class="rate_text"><a href="#">@item.GiaLonNhat</a></h6>
+                <h6 class="rate_text_1">@item.MaNuocSx</h6>
+            </div>
+        </div>
+    </div>
+}
+
+

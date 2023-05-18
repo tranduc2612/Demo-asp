@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>This is admin page</h2>
+
+@using (Html.BeginForm("About","Admin"))
+{
+<div>Id @Html.TextBox("Id")</div>
+<div>Name @Html.TextBox("Name")</div>
+<div>Price @Html.TextBox("PassWord")</div>
+<div><input type="submit" value="Add Product" /></div>
+}

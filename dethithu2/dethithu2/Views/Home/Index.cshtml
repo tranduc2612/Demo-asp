@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Cauthu>
+
+
+@foreach(var item in Model)
+{
+	<li class="span3">
+		<div class="thumbnail">
+			<a href="product_details.html"><img src="../images/images/@item.Anh" alt="" /></a>
+			<div class="caption">
+				<h5>@item.HoVaTen</h5>
+				<p>
+					@item.QuocTich
+				</p>
+				<p>
+					@item.CauLacBoId
+				</p>
+				<a asp-action="UpdateCauThu" asp-controller="Home" asp-route-maCauThu="@item.CauThuId">Update</a>
+				<a asp-action="DeleteCauThu" asp-controller="Home" asp-route-maCauThu="@item.CauThuId">Delete</a>
+
+				<h4 style="text-align:center"><a class="btn" href="product_details.html"> <i class="icon-zoom-in"></i></a> <a class="btn" href="#">Add to <i class="icon-shopping-cart"></i></a> <a class="btn btn-primary" href="#">$222.00</a></h4>
+			</div>
+		</div>
+	</li>
+}

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<TLoaiSp>
+<div class="col-lg-3">
+    <div class="hero__categories">
+        <div class="hero__categories__all">
+            <i class="fa fa-bars"></i>
+            <span>All departments</span>
+        </div>
+        <ul>
+            @foreach(var loaiSanPham in Model)
+            {
+             @*  string linkloaisp = "/home/sanphamtheoloai?maloai=" + loaiSanPham.MaLoai;
+                <li><a asp-controller ="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@loaiSanPham.MaLoai">@loaiSanPham.Loai</a></li>*@
+                string linkloaisp = "https://localhost:7127/api/Productsapi/" + loaiSanPham.MaLoai.Trim();
+                <li><a style="cursor:pointer" onclick="showProductsByCategory(`@linkloaisp`)">@loaiSanPham.Loai</a></li>
+            }
+        </ul>
+    </div>
+</div>
+
+<script>
+    function showProductsByCategory(getUrl){
+        let str = '';
+        $.ajax({
+            type:'GET',
+            url:getUrl,
+            dataType:'json',
+            error:function(err){
+                console.log(err)
+            },
+            success: function(data){
+                $.each(data,function(key,val){
+                    str += ` <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
+            <div class="featured__item">
+                    <div class="featured__item__pic set-bg" data-setbg="../images/${val.anhDaiDien}" style="background-image:url(../images/${val.anhDaiDien})">
+                    <ul class="featured__item__pic__hover">
+                        <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                        <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                        <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                    </ul>
+                </div>
+                <div class="featured__item__text">
+                            <h6><a href="home/chitietsanpham?maSp=${val.maLoai}" >${val.tenSp}</a></h6>
+                    <h5>${val.giaLonNhat} Đồng</h5>
+                </div>
+            </div>
+        </div>`;
+                $('#displayProducts').html(str);
+            }
+        })
+    }
+
+</script>

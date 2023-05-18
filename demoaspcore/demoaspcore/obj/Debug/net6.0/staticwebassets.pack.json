@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\demoaspcore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\demoaspcore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283477536",
+      "PackagePath": "staticwebassets\\Image\\id-user1"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283555575",
+      "PackagePath": "staticwebassets\\Image\\id-user1"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283619799",
+      "PackagePath": "staticwebassets\\Image\\id-user1"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283719081316694971_853682999387017_5893461317897605049_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user1\\1676283719081316694971_853682999387017_5893461317897605049_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283749230316176454_1590472244732796_1738932723051438025_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user1\\1676283749230316176454_1590472244732796_1738932723051438025_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283749230316553055_882268939447265_4060668623456185000_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user1\\1676283749230316553055_882268939447265_4060668623456185000_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283749231310383459_623015842699990_2884350315879935845_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user1\\1676283749231310383459_623015842699990_2884350315879935845_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1676283749274316694971_853682999387017_5893461317897605049_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user1\\1676283749274316694971_853682999387017_5893461317897605049_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user1\\1679233451419IMG_3840.JPG",
+      "PackagePath": "staticwebassets\\Image\\id-user1\\1679233451419IMG_3840.JPG"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\310383459_623015842699990_2884350315879935845_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user\\310383459_623015842699990_2884350315879935845_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\315524398_3216758298635369_257139172581531905_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user\\315524398_3216758298635369_257139172581531905_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\316176454_1590472244732796_1738932723051438025_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user\\316176454_1590472244732796_1738932723051438025_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\316553055_882268939447265_4060668623456185000_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user\\316553055_882268939447265_4060668623456185000_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\316694971_853682999387017_5893461317897605049_n.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user\\316694971_853682999387017_5893461317897605049_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\318308952_863406564796116_2896962878625149928_n.png",
+      "PackagePath": "staticwebassets\\Image\\id-user\\318308952_863406564796116_2896962878625149928_n.png"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\318430658_552885246683348_1829134482768487570_n.png",
+      "PackagePath": "staticwebassets\\Image\\id-user\\318430658_552885246683348_1829134482768487570_n.png"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\318610460_1361993547876784_567438594511283267_n.png",
+      "PackagePath": "staticwebassets\\Image\\id-user\\318610460_1361993547876784_567438594511283267_n.png"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\Image\\id-user\\anh.jpg",
+      "PackagePath": "staticwebassets\\Image\\id-user\\anh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\es-co.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\build\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\package.json",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\sample\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\sample\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\sample\\styles.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\sample\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\src\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\src\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\webpack.config.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-36.0.1-slcr1vss1cdi\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OSC\\Desktop\\DemoASP\\demoaspcore\\demoaspcore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.demoaspcore.props",
+      "PackagePath": "build\\demoaspcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.demoaspcore.props",
+      "PackagePath": "buildMultiTargeting\\demoaspcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.demoaspcore.props",
+      "PackagePath": "buildTransitive\\demoaspcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.demoaspcore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

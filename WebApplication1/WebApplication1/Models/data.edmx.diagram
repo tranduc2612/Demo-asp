@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ce8c933a93c844f9b67e2ef3e392adcc" Name="Diagram1">
+        <EntityTypeShape EntityType="QLXemPhimModel.sysdiagram" Width="1.5" PointX="9.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tChiTietHoaDon" Width="1.5" PointX="9.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tDichVu" Width="1.5" PointX="7.5" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tHangSX" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tHoaDon" Width="1.5" PointX="7.5" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tKhachHang" Width="1.5" PointX="5.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tLichChieu" Width="1.5" PointX="5.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tNhanVien" Width="1.5" PointX="5.25" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tNuocSX" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tPhim" Width="1.5" PointX="3" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tPhongChieu" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tTheLoai" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.tVe" Width="1.5" PointX="7.5" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.view2" Width="1.5" PointX="9.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLXemPhimModel.view7" Width="1.5" PointX="0.75" PointY="12" IsExpanded="true" />
+        <AssociationConnector Association="QLXemPhimModel.fk_tChiTietHoaDon_dichVu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_tChiTietHoaDon_hoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_phim_hangsx" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_tHoaDon_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_tHoaDon_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_ve_KH" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_lichChieu_phim" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_tLichChieu_tPhongChieu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_ve_lichchieu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_ve_NV" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_phim_nuocsx" ManuallyRouted="false" />
+        <AssociationConnector Association="QLXemPhimModel.fk_phim_theloai" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

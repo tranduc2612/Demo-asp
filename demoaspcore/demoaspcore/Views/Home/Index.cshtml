@@ -1,0 +1,27 @@
+﻿@model User;
+@{
+    ViewData["Title"] = "Home Page";
+}
+@Html.Raw(ViewBag.content)
+
+
+<div class="d-flex justify-content-center flex-column">
+    @using (@Html.BeginForm())
+    {
+        <div class="d-flex justify-content-center flex-column p-5">
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name,"",new{@class = "text-danger"})
+            
+            @Html.LabelFor(model => model.PassWord)
+            @Html.EditorFor(model => model.PassWord)
+            @Html.ValidationMessageFor(model => model.PassWord,"",new{@class = "text-danger"})
+
+            <textarea name="content" id="editor">This is some sample content.</textarea>
+
+            <button class="mt-5" type="submit">Submit</button>
+        </div>
+    }
+
+
+</div>

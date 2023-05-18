@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model User
+
+<div class="d-flex align-items-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <h2>User Form</h2>
+    @using (Html.BeginForm()) {
+@Html.ValidationSummary(true)
+<div>@Html.LabelFor(model => model.name)</div>
+<div>@Html.EditorFor(model => model.name)</div>
+<div>@Html.LabelFor(model =>model.address)</div>
+@Html.EditorFor(model =>model.address)
+<div>@Html.LabelFor(model =>model.email)</div>
+<div>@Html.EditorFor(model =>model.email) </div>
+<p><input type="submit" value="Create" /></p>
+}
+ 
+</div>

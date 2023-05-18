@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model List<TDanhMucSp>
+
+<section id="portfolio" class="sections lightbg portfolio">
+	<div class="container">
+
+		<div class="heading-content text-center">
+			<h3>Our works</h3>
+		</div>
+
+		<div class="row">
+			<div class="main_mix_content whitebackground text-center">
+
+				<div class="main_mix_menu">
+					@foreach(var item in ViewBag.QuocGia)
+					{
+						<button class="filter" onclick="renderProduct(`@item.MaNuoc`)" data-filter="all">@item.TenNuoc<span>/</span></button>
+					}
+					
+				</div>
+
+				<div id="test" class="test">
+				
+					@foreach(var item in Model)
+					{
+					<div class="col-md-4 mix cat1 no-padding">
+						<div class="single_mixi_portfolio">
+							<img src="../imagesVali/@item.AnhDaiDien" alt="Portfolio" />
+							<div class="mixi_portfolio_overlay">
+								<div class="overflow_hover_text">
+									<a href=""><i class="lnr lnr-plus-circle"></i></a>
+									<h2>@item.TenSp</h2>
+									<p>@item.MaLoai</p>
+								</div>
+							</div>
+						</div>
+					</div>
+						
+					}
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="more">
+			<a href="#">more</a>
+		</div>
+
+	</div>
+
+</section>
+
