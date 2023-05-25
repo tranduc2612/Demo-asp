@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Colo Shop</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Colo Shop Template">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="../assets/styles/bootstrap4/bootstrap.min.css">
+<link href="../assets/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../assets/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="../assets/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="../assets/plugins/OwlCarousel2-2.2.1/animate.css">
+<link rel="stylesheet" type="text/css" href="../assets/styles/main_styles.css">
+<link rel="stylesheet" type="text/css" href="../assets/styles/responsive.css">
+</head>
+
+<body>
+
+<div class="super_container">
+
+	<!-- Header -->
+
+
+
+	 @await Html.PartialAsync("_Header")
+
+
+	<div class="fs_menu_overlay"></div>
+	<div class="hamburger_menu">
+		<div class="hamburger_close"><i class="fa fa-times" aria-hidden="true"></i></div>
+		<div class="hamburger_menu_content text-right">
+			<ul class="menu_top_nav">
+				<li class="menu_item has-children">
+					<a href="#">
+						usd
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="menu_selection">
+						<li><a href="#">cad</a></li>
+						<li><a href="#">aud</a></li>
+						<li><a href="#">eur</a></li>
+						<li><a href="#">gbp</a></li>
+					</ul>
+				</li>
+				<li class="menu_item has-children">
+					<a href="#">
+						English
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="menu_selection">
+						<li><a href="#">French</a></li>
+						<li><a href="#">Italian</a></li>
+						<li><a href="#">German</a></li>
+						<li><a href="#">Spanish</a></li>
+					</ul>
+				</li>
+				<li class="menu_item has-children">
+					<a href="#">
+						My Account
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="menu_selection">
+						<li><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li>
+						<li><a href="#"><i class="fa fa-user-plus" aria-hidden="true"></i>Register</a></li>
+					</ul>
+				</li>
+					
+
+				<li class="menu_item"><a href="#">home</a></li>
+				<li class="menu_item"><a href="#">shop</a></li>
+				<li class="menu_item"><a href="#">promotion</a></li>
+				<li class="menu_item"><a href="#">pages</a></li>
+				<li class="menu_item"><a href="#">blog</a></li>
+				<li class="menu_item"><a href="#">contact</a></li>
+			</ul>
+		</div>
+	</div>
+
+	@RenderBody()
+
+	@await Html.PartialAsync("_Footer")
+</div>
+
+<script src="../assets/js/jquery-3.2.1.min.js"></script>
+<script src="../assets/styles/bootstrap4/popper.js"></script>
+<script src="../assets/styles/bootstrap4/bootstrap.min.js"></script>
+<script src="../assets/plugins/Isotope/isotope.pkgd.min.js"></script>
+<script src="../assets/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="../assets/plugins/easing/easing.js"></script>
+<script src="../assets/js/custom.js"></script>
+<script>
+		function getCategory(maCategory){
+			$.ajax({
+			type: 'GET',
+			url: `https://localhost:7084/Home/Category?maCategory=${maCategory}`,
+			dataType: 'json',
+			contentType: "application/json;charset=utf-8",
+			success: function (data) {
+				var str = "";
+				data.lst.forEach((e,index)=>{
+						let left = index * 222;
+						 
+						str += `
+												<div class="product-item men" style="position: absolute; left: ${left}px; top: ${index}px;>
+									<div class="product discount product_filter">
+										<div class="product_image">
+											<img src="../assets/images/${e.anhDaiDien}" alt="">
+										</div>
+										<div class="favorite favorite_left"></div>
+										<div class="product_bubble product_bubble_right product_bubble_red d-flex flex-column align-items-center"><span>-$20</span></div>
+										<div class="product_info">
+											<h6 class="product_name"><a href="single.html">${e.tenSanPham}</a></h6>
+											<div class="product_price">${e.giaNhap}<span>${e.donGiaBanLonNhat}</span></div>
+										</div>
+									</div>
+									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
+								</div>`
+				})
+
+					document.querySelector(".duy").innerHTML = str;
+			},
+			error: function (err) {
+				console.log(err)
+			},
+
+			})
+
+		}
+		
+</script>
+</body>
+
+</html>

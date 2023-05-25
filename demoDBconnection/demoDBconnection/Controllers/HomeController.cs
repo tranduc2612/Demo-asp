@@ -23,7 +23,15 @@ namespace demoDBconnection.Controllers
         {
             int pageNum = page == null || page < 1 ? 1 : page.Value;
             int pageSize = 8;
-            var listSp = db.TDanhMucSps.AsNoTracking().OrderBy(x=>x.TenSp);
+			//var query =
+   //              from loai in db.TLoaiDts
+   //              join sp in db.TDanhMucSps on loai.MaDt equals sp.MaDt
+   //              select new { Post = loai, Meta = sp };
+
+   //         var data = query.ToList();
+
+			var listSp = db.TDanhMucSps.AsNoTracking().OrderBy(x=>x.TenSp);
+
             PagedList<TDanhMucSp> lst = new PagedList<TDanhMucSp>(listSp,pageNum,pageSize);
             return View(lst);
         }

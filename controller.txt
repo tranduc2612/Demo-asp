@@ -1,9 +1,0 @@
-// chuyển hướng cùng controller
-RedirectToAction(method action) :truyển hướng trang bên sever
-
-// chuyển hướng khác controller
-RedirectToAction(method action) :truyển hướng trang bên sever
-
-// chuyển hướng tới url
-Redirect("www.google.com")
-
