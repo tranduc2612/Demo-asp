@@ -1,0 +1,15 @@
+var query = from loai in db.TLoaiDts
+            join sp in db.TDanhMucSps on loai.MaDt equals sp.MaDt
+            select new { Post = loai, Meta = sp };
+
+
+var result = from farmer in farmerList  
+where farmer.Income > 25000  
+where farmer.Income < 40000  
+select farmer;  
+
+
+var query = (from sp in db.SanPhams join
+	loai in db.PhanLoais on sp.MaPhanLoai equals loai.MaPhanLoai 
+	 where loai.MaPhanLoai == "001"
+	select new { SanPham=sp,Loai = loai }).ToList();

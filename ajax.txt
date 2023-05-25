@@ -1,0 +1,39 @@
+function getCategory(maCategory){
+			$.ajax({
+			type: 'GET',
+			url: `https://localhost:7084/Home/Category?maCategory=${maCategory}`,
+			dataType: 'json',
+			contentType: "application/json;charset=utf-8",
+			success: function (data) {
+				var str = "";
+				data.lst.forEach(e=>{
+						str += ``
+				})
+
+					document.querySelector(".duy").innerHTML = str;
+			},
+			error: function (err) {
+				console.log(err)
+			},
+
+			})
+
+		}
+
+ViewBag.MaChatLieu = new SelectList(db.TChatLieus.ToList(),"MaChatLieu","ChatLieu")
+
+validate
+
+[RegularExpression(@"^[a-zA-Z]+$", ErrorMessage = "Chi duoc nhap chu cai")]
+[RegularExpression(@"(.*/)*.+\.(png|jpg|gif|bmp|jpeg|PNG|JPG|GIF|BMP|JPEG)$", ErrorMessage = "Nhap dung dinh dang")]
+
+Update
+
+if (ModelState.IsValid)
+			{
+				db.Entry(cauthu).State = EntityState.Modified;
+				db.SaveChanges();
+				return RedirectToAction("Index");
+			}
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css

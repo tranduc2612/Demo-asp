@@ -1,0 +1,17 @@
+[RegularExpression("^[a-zA-Z]*$", ErrorMessage = "Chỉ được nhập chữ cái")]
+
+[RegularExpression("^[0-9]*$", ErrorMessage = "Chỉ được nhập số")]
+
+[RegularExpression(@"([^\s]+(\.(?i)(jpg))$)", ErrorMessage = "Chỉ được upload file ảnh định dạng JPG")]
+
+[RegularExpression("^[A-Za-z].*", ErrorMessage ="Chỉ nhập bắt đầu là một chữ cái")]
+
+[RegularExpression("^(?!0\d+)\d{3,}(\.\d+)?$", ErrorMessage ="Chỉ có thể nhập số và giá trị phải >100.")]
+
+[RegularExpression("^(?!0\d+)(\d{1,2}(\.\d+)?)$", ErrorMessage ="Chỉ có thể nhập số và giá trị phải <100.")]
+
+[RegularExpression("^.{20}$", ErrorMessage ="Chỉ được nhập 20 kí tự")]
+
+[RegularExpression("^.{20,}$", ErrorMessage ="Chỉ được nhập ít nhất 20 kí tự")]
+
+[RegularExpression("^.{0,20}$", ErrorMessage ="Chỉ được nhập tối đa 20 kí tự")]

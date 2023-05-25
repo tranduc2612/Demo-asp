@@ -1,0 +1,6 @@
+Scaffold-DBContext "Data Source=MSI\SQLEXPRESS;Initial Catalog=QLBanVaLi;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
+
+Scaffold-DBContext "Data Source=MSI\SQLEXPRESS;Initial Catalog=QLBongDa;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
+
+
+Scaffold-DBContext "" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -f
